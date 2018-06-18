@@ -1,2 +1,2 @@
 apples, oranges
-kiwi, mango
+banana, pear
